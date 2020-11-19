@@ -1,0 +1,55 @@
+body {
+	font-family: 'Karla', sans-serif;
+	font-size: 1.2em;
+}
+/* NAVBAR STYLING */
+.navbar {
+	background-color: #B1B695;
+
+}
+
+/* HEADER STYLING */
+#header {
+	background-color: #FFF;
+	color: #6ebec4;
+}
+
+/* CONTENT STYLING */
+#content {
+	margin-bottom: 1rem;
+}
+
+#content 
+
+.h1align {
+	text-align: center;
+}
+.h2align {
+	margin: 40px 0px;
+	text-align: center;
+	/*color: #51bfc9;*/
+	/*color: #5cbcc4;*/
+	color: #6ebec4;
+}
+
+.borderwhite {
+	border-color: white;
+}
+
+.cardSpace {
+	margin-bottom: 1.5rem;
+}
+
+.cardtitle-color {
+	color: #6ebec4;
+}
+.carddescription-color {
+	color: #656966;
+}
+
+.max-width-lg {
+	max-width: 1140px;
+}
+footer {
+	background-color: #A0CFD3;
+}
